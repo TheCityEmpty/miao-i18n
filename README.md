@@ -184,6 +184,6 @@ export default App;
 
 ### 最后
 
-由于此工具目前只在我的项目中使用，所有肯定有很我没有考虑到的地方，欢迎各位大佬提建议和意见，`Github 地址`: [miao-i18n](https://github.com/goldEli/miao-i18n)
+由于此工具目前只在我的项目中使用，所以肯定有很多我没有考虑到的地方，欢迎各位大佬提建议和意见，`Github 地址`: [miao-i18n](https://github.com/goldEli/miao-i18n)
 
 感谢阅读！🌹
